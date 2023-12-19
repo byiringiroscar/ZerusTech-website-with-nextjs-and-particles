@@ -8,11 +8,11 @@ const Header = () => {
       </div>
       <div>
         <ul className="flex gap-6 text-sm uppercase font-semibold">
-          <li>Home</li>
-          <li>About</li>
-          <li>Services+</li>
-          <li>Gallery</li>
-          <li>Contact</li>
+          <li className="cursor-pointer">Home</li>
+          <li className="cursor-pointer">About</li>
+          <li className="cursor-pointer">Services</li>
+          <li className="cursor-pointer">Gallery</li>
+          <li className="cursor-pointer">Contact</li>
         </ul>
       </div>
       <div>
