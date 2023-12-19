@@ -5,7 +5,7 @@ import Banner from '@/components/Banner'
 
 export default function Home() {
   return (
-    <div className='w-full h-auto bg-banner-bg bg-no-repeat bg-center bg-cover text-white'>
+    <div className='w-full h-screen bg-banner-bg bg-no-repeat bg-center bg-cover text-white'>
       <div className='max-w-6xl mx-auto text-white'>
         <Header />
         <Banner />

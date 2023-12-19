@@ -21,7 +21,7 @@ const Banner = () => {
         </button>
       </div>
       <div>
-        <Image src={bannerRight} alt="banner" />
+        <Image src={bannerRight} height={400} width={400} alt="banner" />
       </div>
     </div>
   )
