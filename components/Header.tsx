@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className="w-full text-white py-10 flex justify-between items-center border-b-[1px] border-b-blue-600">
       <div>
-        <h1 className="text-2xl font-bold uppercase">Particles</h1>
+        <h1 className="text-2xl font-bold uppercase">ZerusTech</h1>
       </div>
       <div>
         <ul className="flex gap-6 text-sm uppercase font-semibold">
